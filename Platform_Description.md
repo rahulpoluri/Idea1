@@ -12,11 +12,16 @@
 ---
 
 ### Step 2: Profile Verification  
-1. A moderator reviews the submitted details and contacts the user via a phone call to:
+1. A moderator reviews the submitted details and contacts the user via a video call to:
    - Verify the accuracy of the provided information.
    - Offer suggestions to enhance the user's profile.
    - Document the user’s motivations and aspirations in their profile.
 
+---
+### Step 3: Payment for first three calls 
+1. If user is deemed to be fit after intial checks he will be allowed to make the payment.
+2. User will asked to provide his suitable timeslots for week, with some probable best time suggestions.
+   
 ---
 
 ### Step 3: AI-Powered Matchmaking  
@@ -38,7 +43,7 @@
 ### Step 5: Post-Call Decisions  
 1. After the call, both participants independently decide to accept or reject the match.
 2. If rejected:
-   - Constructive feedback is provided to both parties for improvement.  
+   - Constructive feedback is provided to both parties for improvement. And will be matched with new participants for next remaining calls.
 3. If accepted:
    - A second call is scheduled using the same workflow.
 
@@ -48,7 +53,7 @@
 1. Up to three calls are facilitated between the matched participants.
 2. After the third successful call:
    - Personal details of both parties are revealed.
-   - The participants exit the system.
+   - The participants exit the system. or they can opt to pay for next three calls.
 
 ---
 
