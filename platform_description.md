@@ -37,6 +37,7 @@
 3. The call is conducted with the following protocols:
    - Partial recording for monitoring and feedback purposes.
    - AI tools generate real-time feedback during the call.
+   - Intresting ideas or tiny question games to help this conversation go interesting and breaking ice.
 
 ---
 
