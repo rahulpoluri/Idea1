@@ -38,6 +38,7 @@
    - Partial recording for monitoring and feedback purposes.
    - AI tools generate real-time feedback during the call.
    - Intresting ideas or tiny question games to help this conversation go interesting and breaking ice.
+   - Feature to make the detials little anonymous like madeup names for participants safety(if they wish)
 
 ---
 
