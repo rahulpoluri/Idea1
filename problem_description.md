@@ -105,6 +105,3 @@ This initiative not only bridges the gap in the current market but also addresse
 - Places control in the hands of users, allowing them to define their journey with minimal external interference.  
 
 By fostering genuine connections and breaking away from traditional norms, **Liberal Shaadi** reimagines what modern matchmaking can be.  
-```
-
-Let me know if you’d like further refinements or additional sections!
