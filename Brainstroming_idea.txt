@@ -57,3 +57,19 @@ If you’re solving these issues, consider:
 	•	Privacy-First Design: Features like anonymous browsing or limited profile visibility to reduce exposure anxiety.
 	•	Inclusivity Features: Create spaces for diverse user groups, including LGBTQ+ communities or niche preferences.
 	•	Hybrid Approaches: Combine dating and matrimonial features for flexibility (e.g., start casual, progress to serious matchmaking).
+
+
+Platforms which came close or similar to the idea
+-------------------------------------------------
+
+iris Dating
+Utilizes AI to verify user identities, ensuring authenticity and reducing catfishing. The platform focuses on connecting users based on compatibility, though it doesn’t specify structured online meetups. ￼
+
+Juleo
+A Delhi-based platform that combines rigorous verification, AI-driven matchmaking, and a focus on real-life interactions. While it emphasizes verification and AI matching, its primary goal is facilitating in-person meetings. ￼CarpeDM
+Encourages users to engage in video dates within 72 hours of matching, promoting immediate online interactions. However, it doesn’t detail comprehensive verification or AI-driven matchmaking. ￼
+
+Badoo
+Offers features like photo verification to ensure user authenticity and video chat options for real-time interaction. While it includes verification and online meetups, it lacks structured scheduling and AI-driven matchmaking. ￼While these platforms incorporate certain elements of your concept, none provide the full suite of features you’ve described, such as human verification via video calls, AI-powered matchmaking with a focus on short-term compatibility, structured and scheduled online interactions with pre-call guidelines, and post-call feedback mechanisms.
+
+Some feature in tinder and ok cupid have video dates option but they are always after two people are intersted and they had a match and chat.
