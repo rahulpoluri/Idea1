@@ -1,24 +1,63 @@
-# Platform Description
+# Platform Design and Functionality
 
-## Platform Design and Functionality
+## User Workflow
 
-- **User Profile Creation and Verification**:  
-  Users should be able to provide detailed information, including:
-  - Personal details (Name, Age, Address with Aadhaar).
-  - Verification documents (Pictures, Salary slips, etc.).
-  - Current work details and professional summary.
-  - Family details.  
-  All submitted details should undergo human verification via a phone call. During the call, moderators will:
-  - Suggest improvements to the user's profile.
-  - Document the user’s motivations and aspirations in their profile.
+### Step 1: Profile Creation  
+1. Users fill out a comprehensive form to provide:
+   - Personal details: Name, Age, Address (with Aadhaar verification).
+   - Professional information: Current work details, professional summary (with salary slips).
+   - Family details and photographs.
+2. Submit the form for human verification.
 
-- **Matching and Interaction**:  
-  - The platform should use AI to find the most compatible matches, especially for short-term interactions (e.g., weekends).
-  - A suitable meeting time should be scheduled for both parties with clear pre-instructions on behavior and expectations.
-  - Calls between matches should be partially recorded for monitoring and feedback generation (potentially AI-driven).
-  - After the initial call, both parties can either accept or reject the match.
-  - If both parties agree, a second call is scheduled in the same manner. In case of rejection, constructive feedback should be provided.
-  - After three successful calls, personal details of both individuals will be revealed, and they will exit the system.
+---
+
+### Step 2: Profile Verification  
+1. A moderator reviews the submitted details and contacts the user via a phone call to:
+   - Verify the accuracy of the provided information.
+   - Offer suggestions to enhance the user's profile.
+   - Document the user’s motivations and aspirations in their profile.
+
+---
+
+### Step 3: AI-Powered Matchmaking  
+1. The system uses AI to identify compatible matches based on the user’s profile.
+2. Short-term matches (e.g., weekend compatibility) are prioritized where appropriate.
+3. Suggested matches are presented to the user for review.
+
+---
+
+### Step 4: Scheduling the First Call  
+1. A mutually convenient time slot is set for both parties.
+2. Pre-call instructions and behavioral guidelines are shared with each participant.
+3. The call is conducted with the following protocols:
+   - Partial recording for monitoring and feedback purposes.
+   - AI tools generate real-time feedback during the call.
+
+---
+
+### Step 5: Post-Call Decisions  
+1. After the call, both participants independently decide to accept or reject the match.
+2. If rejected:
+   - Constructive feedback is provided to both parties for improvement.  
+3. If accepted:
+   - A second call is scheduled using the same workflow.
+
+---
+
+### Step 6: Building the Connection  
+1. Up to three calls are facilitated between the matched participants.
+2. After the third successful call:
+   - Personal details of both parties are revealed.
+   - The participants exit the system.
+
+---
+
+### Step 7: Data Management  
+1. Users retain control over their personal data.
+2. They can delete their profiles and associated information at any point.
+
+By following this structured workflow, the platform ensures a secure, transparent, and meaningful experience for users.
+
 
 ## Platform Features
 
