@@ -1,2 +1,2 @@
-# Idea1
+# Match Making App
 Business Idea
