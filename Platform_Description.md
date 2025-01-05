@@ -1,4 +1,6 @@
-How should the platform look like and function?
+# Platform Description
+
+## How should the platform look like and function?
 -----------------------------------------------
 in Platform
 
@@ -12,7 +14,7 @@ in Platform
 - if they both want to continue a second call should be set in the same manner.(if there is rejection then the feedback should be provided)
 - after three calls Personal detials of both have to be revealed to each other and they should be out of system.
 
-Roughly Plaform should have following features
+## Roughly Plaform should have following features
 ----------------------------------------------
 1) Form to fill up and upload all the detials
 2) Video chat feature to get on calls.
@@ -24,7 +26,7 @@ Roughly Plaform should have following features
 8) Data delete feature to have users control on their personal data.
 9) Support portal to raise any queries.
 
-other additional quality of life improvements:
+## Other additional quality of life improvements:
 ----------------------------------------------
 1) The person who is moderating or talking to people is extremely important here, as he gives the impression about the plaform and its trustworthiness.
 2) A cross culture facilitator / or a person who living abroad and young mindset who speak and listen good would be a great value add here.
