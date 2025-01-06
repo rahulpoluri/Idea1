@@ -24,14 +24,14 @@
    
 ---
 
-### Step 3: AI-Powered Matchmaking  
+### Step 4: AI-Powered Matchmaking  
 1. The system uses AI to identify compatible matches based on the user’s profile.
 2. Short-term matches (e.g., weekend compatibility) are prioritized where appropriate.
 3. Suggested matches are presented to the user for review.
 
 ---
 
-### Step 4: Scheduling the First Call  
+### Step 5: Scheduling the First Call  
 1. A mutually convenient time slot is set for both parties.
 2. Pre-call instructions and behavioral guidelines are shared with each participant.
 3. The call is conducted with the following protocols:
@@ -42,7 +42,7 @@
 
 ---
 
-### Step 5: Post-Call Decisions  
+### Step 6: Post-Call Decisions  
 1. After the call, both participants independently decide to accept or reject the match.
 2. If rejected:
    - Constructive feedback is provided to both parties for improvement. And will be matched with new participants for next remaining calls.
@@ -51,7 +51,7 @@
 
 ---
 
-### Step 6: Building the Connection  
+### Step 7: Building the Connection  
 1. Up to three calls are facilitated between the matched participants.
 2. After the third successful call:
    - Personal details of both parties are revealed.
@@ -59,7 +59,7 @@
 
 ---
 
-### Step 7: Data Management  
+### Step 8: Data Management  
 1. Users retain control over their personal data.
 2. They can delete their profiles and associated information at any point.
 
