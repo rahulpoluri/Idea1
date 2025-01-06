@@ -33,6 +33,8 @@ When researching a software product idea, the goal is to thoroughly validate and
   comptibility check.
   - Also as people are presented with thousands of profiles at once, people get extremely picky and target the best according to filters set, and average people get sidelined easily.
   - Particurly for me they have become tough place, to find a relation as bar set by people are too high.
+  - People often communicate with multiple people simultaneously, reaching out to several at once. As these conversations unfold, comparisons between individuals often arise, creating a 
+  state of dilemma where people may invest less effort in getting to know each person deeply.
   - Finding a love based relation is extremely difficult.
  
 
