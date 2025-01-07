@@ -5,7 +5,8 @@ When researching a software product idea, the goal is to thoroughly validate and
 ---
 
 ## 1. Understand the Problem and Market
-- **What problem does your product solve?**  
+
+- **What are the problems/pain points of your target users?**  
   ### Dating APP's Problems:
   - They are made to engage in them as maximum as possible, as thier revenue is dependedent on how long people are single and want to find relationship.
   - Extreme gamification of the platforms with very unrealisitic expectations. People are presented with thousands of options to choose and even the good ones seem useless.
@@ -13,16 +14,16 @@ When researching a software product idea, the goal is to thoroughly validate and
   - Men have extremely high failure rate in finding matches, only the top 10 percent are hightly successful and other are left out as women seek only them in thousands as there is too 
   much choice.
   - Women face different chanllenges where they often become picky in order to select the right one and they get bombarded with messages from hundreds of men at the same time making them
-  stressed in answering all or picking the right one, and often times their best choice is best for everyone and are less chance eventually to make things go further.
+  stressed in answering all or picking the right one, and often times their best choice is best for everyone and they have less chance eventually to make things go further.
   - People with average looks rerely succeed, as everything is about looks and cachy bio.
   - Men have a pressure to make the first move and they tend to write to hundreds of profiles a custom message going though thier profiles which kills a lot time by spending countless 
   hours.
-  - Often times its unclear on why the person is on the platform, and do they similar interest in making a long-term meaningful relationship.
+  - Often times its unclear on why the person is on the platform, and do they have similar interest in making a long-term meaningful relationship.
   - There is huge problem of fake profiles in dating apps, and that is by design because when they launch the app to market, people only join when they see so many options available, and
   in order to achieve that, comapnies often use bots or hired people to create a illusion of crowd there.
   - Data security is huge problem as companies might sell the data to third parties and which might lead to social engineering scams.
-  - Harrassment of women on dating platforms is also a huge problem because to grab attention many people become cheesy and bahave inappropriately.
-  - Manier times people feel fatigue and they dont use the app for days and other people wait for thier response for ages not knowing what happened.
+  - Harrassment of man and women on dating platforms is also a huge problem because to grab attention many people become cheesy and bahave inappropriately.
+  - Manier times people feel fatigue and they dont use the app for days and other people wait for thier response for ages not knowing what happened and left ghosted.
   - Ultimately they are not able to serve thier actual purpose of finding love or relationship for both men and women even after paying a lot.
 
   ### Matrimonial app problems:
@@ -36,30 +37,29 @@ When researching a software product idea, the goal is to thoroughly validate and
   - People often communicate with multiple people simultaneously, reaching out to several at once. As these conversations unfold, comparisons between individuals often arise, creating a 
   state of dilemma where people may invest less effort in getting to know each person deeply.
   - Finding a love based relation is extremely difficult.
- 
-  ### Solution:
+    
+- **What problem does your product solve?**   
   Liberal Shaadi is platform designed to be hybrid of matrimonial sites and dating platform and of blind dating.
   - Users get a chance directly to speak to thier matches via video call.
-  - Users don't have to spend a lot of time in finding a match as Algo does for them based on thier preferences and suitability.
+  - Users will be guided to make thier bio and can express thier intent with the help of moderator and via userinterface.
+  - Users don't have to spend a lot of time in finding a match or writing catchy messages to them as Algo does matching for them based on thier preferences and suitability and not just 
+  looks.
   - Users pay per use of platform so they are not forced to stay on the platform forever.
   - Users can be assured to meet people with right intentions and right info as profiles are checked throughly by moderator and user info is validated via proofs.
-  - Users can be assured that thier data is secure an they can be requested to deleted easily as app provides this access directly.
+  - Users can be assured that thier data is secure and they can be requested to deleted easily as app provides this access directly as they are made owners of thier data.
   - Users stay anonymous for certian period in this process, so they can be assured that they dont fall victim of harrassment.
   - Men and women theoritically will have equal success rate. (They might be different waiting times for them, but they dont waste time or money for waiting)
-  - There will be no problem of deciscion paralysis as men and women can talk to only 1 person at a time.
+  - There will be no problem of decision paralysis as men and women can talk to only 1 person at a time.
   - As poeple are expected to speak by themselves and it is initiaed by them, there will be no problem of parental interference.
-  - Finally average people will be able to find other average people.
+  - Users who doenst use accept call from matches for a spefic amount of time, will be taken out of the sysetem, thereby preventing ghosting.
+  - Finally people who consider them average will be able to find success in this platform and they feel value for money.
   
-
 - **Who is your target audience?**  
   Target audidence are roughly between 20 - 40 years old, with good professional background, who's intention is to find longterm relationship(As first target audience).
-  Idea envisions to spread to India, EU, US and other parts of world slowly, but as first step focus is on India and metro cities.
+  Idea envisions to spread to India, EU, US and other parts of world slowly, but as first step focus is on metro cities in India.
   
 
 - **How big is the market?**  
-  _Answer:_
-
-- **What are the pain points of your target users?**  
   _Answer:_
 
 ---
