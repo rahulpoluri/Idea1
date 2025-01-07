@@ -7,7 +7,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 ## 1. Understand the Problem and Market
 
 - **What are the problems/pain points of your target users?**  
-  ### Dating APP's Problems:
+  ### Dating app's Problems:
   - They are made to engage in them as maximum as possible, as thier revenue is dependedent on how long people are single and want to find relationship.
   - Extreme gamification of the platforms with very unrealisitic expectations. People are presented with thousands of options to choose and even the good ones seem useless.
   - Extreme narrow approach on finding matches, with catchy Bio, catchy picture, and other weird techniquues to be used to succeed.
@@ -26,7 +26,7 @@ When researching a software product idea, the goal is to thoroughly validate and
   - Manier times people feel fatigue and they dont use the app for days and other people wait for thier response for ages not knowing what happened and left ghosted.
   - Ultimately they are not able to serve thier actual purpose of finding love or relationship for both men and women even after paying a lot.
 
-  ### Matrimonial app problems:
+  ### Matrimonial app's problems:
   - They are extremely focussed on finding match based on hard filters of caste and community which is repelling for users with liberal thoughts and people who want to find love.
   - They are hijacked by parents and relatives instead of prospect bride and groom and talk is intiated by the relatives, which seem extemely traditional.
   - Manier times people get rejected by relatives just after checking thier hard filters.
