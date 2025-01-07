@@ -14,6 +14,10 @@ My Idea on how to go further to launch app in India
 12. After initial success think of expansion ideas and making app more profitable, making more attractive to users.
 
 
+Ideas to improve functinanlities or covering corner cases
+----------------------------------------------------------
+1. Users will pay for 3 calls or 1 contact ??
+
 Common problems faced by dating and matrimonial apps
 ----------------------------------------------------
 There are several issues and pain points users face with existing dating and matrimonial websites. Understanding these problems can help you identify opportunities to innovate and address unmet needs. Here are some common issues people face:
