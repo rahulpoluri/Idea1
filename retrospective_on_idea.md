@@ -43,7 +43,7 @@ When researching a software product idea, the goal is to thoroughly validate and
   - Users get a chance directly to speak to thier matches via video call.
   - Users will be guided to make thier bio and can express thier intent with the help of moderator and via userinterface.
   - Users don't have to spend a lot of time in finding a match or writing catchy messages to them as Algo does matching for them based on thier preferences and suitability and not just 
-  looks.
+  looks or hard set filters.
   - Users pay per use of platform so they are not forced to stay on the platform forever.
   - Users can be assured to meet people with right intentions and right info as profiles are checked throughly by moderator and user info is validated via proofs.
   - Users can be assured that thier data is secure and they can be requested to deleted easily as app provides this access directly as they are made owners of thier data.
