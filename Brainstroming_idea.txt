@@ -19,6 +19,7 @@ Ideas to improve functinanlities or covering corner cases
 1. Users will pay for 3 calls or 1 contact ??
 2. Digi locker integration
 3. Should prevent taking screenshots on all devices.
+4. May be consider a options to make this gender nuteal
 
 Common problems faced by dating and matrimonial apps
 ----------------------------------------------------
