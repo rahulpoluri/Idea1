@@ -82,6 +82,20 @@ If you’re solving these issues, consider:
 Platforms which came close or similar to the idea
 -------------------------------------------------
 
+Aisle Features (Short Summary)
+	•	Serious Relationships Focus: Designed for meaningful, long-term connections.
+	•	Culturally Relevant: Tailored for Indian and South Asian communities.
+	•	Curated User Base: Selective approval process ensures quality profiles.
+	•	Invite-Based Matching: Users send invites to express interest.
+	•	Detailed Profiles: Includes lifestyle preferences and interests for compatibility.
+	•	Advanced Filters: Search by religion, language, and other preferences.
+	•	Icebreaker Notes: Send personalized messages to start conversations.
+	•	Voice Notes: Add audio prompts for a more personal touch.
+	•	Privacy-Focused: Ensures a safe, respectful environment.
+	•	Global Reach: Connects users in India and the diaspora.
+	•	Premium Membership: Unlock features like unlimited invites and priority visibility.
+	•	Event-Based Interaction: Occasionally organizes events for user engagement.
+
 iris Dating
 Utilizes AI to verify user identities, ensuring authenticity and reducing catfishing. The platform focuses on connecting users based on compatibility, though it doesn’t specify structured online meetups. ￼
 
