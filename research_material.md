@@ -9,3 +9,4 @@ Research
 - [Useful article on current problems in dating sites from a match makers perspective](https://www.linkedin.com/pulse/why-dating-apps-dont-work-matchmakers-perspective-april-davis-n3ome/?trackingId=Ow35AyrkSdyJoTH55HPJzw%3D%3D)
 - [Insights on market trends](https://www.linkedin.com/pulse/global-marriage-dating-app-market-size-trends-opportunities-nhv4c/?trackingId=XSIGrsU7SJGUkVCnaVZyeg%3D%3D)
 - [Podcast from juleo founder](https://www.youtube.com/watch?v=dFRGrsPGCGU)
+- [Article on juleo](https://yourstory.com/2024/09/love-juleo-startup-app-online-dating-couples-ai-matchmaking-verification)
