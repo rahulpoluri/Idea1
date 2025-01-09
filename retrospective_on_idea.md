@@ -78,7 +78,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ## 3. Analyze the Competition
 - **Who are your competitors?**  
-  _Answer:_
+  [Juleo](https://www.juleo.club/)
 
 - **What are their strengths and weaknesses?**  
   _Answer:_
