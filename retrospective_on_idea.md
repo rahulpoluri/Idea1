@@ -60,7 +60,7 @@ When researching a software product idea, the goal is to thoroughly validate and
   
 
 - **How big is the market?**  
-  _Answer:_
+  [_Answer:_](https://www.smallcase.com/blog/modern-love-indias-dating-industry/)
 
 ---
 
