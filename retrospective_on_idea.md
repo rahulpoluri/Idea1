@@ -61,6 +61,19 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 - **How big is the market?**  
   [_Answer:_](https://www.smallcase.com/blog/modern-love-indias-dating-industry/)
+  AS per the analysis, it seems that there are around
+  30 miliion targetable users in INDIA acroos various cities
+  annual growth of 12-15%
+  average user spending $3-$5 anually
+  
+  This number is derived by considering
+  Polulation -> 1.4B
+  aged 20-40 -> 490M
+  Singles -> 318M - 343M
+  internet accesssiblity -> ~150M - 200M
+  been on dating sites data/matrimonial -> ~60M - 80M
+  based on comenpetion and adoption rate -> 30M - 50M 
+  paid users on dating sites(5-10%) - 3M-5M
 
 ---
 
@@ -79,9 +92,20 @@ When researching a software product idea, the goal is to thoroughly validate and
 ## 3. Analyze the Competition
 - **Who are your competitors?**  
   [Juleo](https://www.juleo.club/)
+  [aisle](https://www.aisle.co/)
 
 - **What are their strengths and weaknesses?**  
-  _Answer:_
+  Juleo is a very new dating app founded in 2023 but which is very close to our idea in India, It seems they took the right path in understanding all the pain points of the current
+  users in dating and matrimony sites.
+  They have solved some of most pressing problems with dating apps and matrimony
+  - Meets instead of chats
+  - Having limited options so user is not confused
+  - No need to waste time on app
+  - AI matching so no need to put effort in finding
+  - verify the authenticity of profile
+  - targeting meaningful relations
+  - private mode for women
+  - orgnising club events every week
 
 - **How are they priced?**  
   _Answer:_
