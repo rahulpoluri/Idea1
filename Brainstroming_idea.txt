@@ -2,16 +2,17 @@ My Idea on how to go further to launch app in India
 ———————————————————————————-------------------------
 1. Develop the app with idea in mind to serve some 100000 (Webpage users ) concurrent users for video chat (10000 )
 2. After the app is ready with MVP,  try to run and make available to make demos and tests.
-3. Try to attract investors to secure funding to run at least for next 3 years without profits. Or invest some money of own.
-4. Have thoroughly checked on compliance and regulations.
-5. Hire a Designer, full stack developer, Tester to perfect the app for next few months and plan for next changes(May be start with freelancers)
-6. Hire a moderator to talk to people and can work on enquiries.
-7. May be hire a marketing guy, who can help in better marketing strategies.??
-8. Launch the app(may to specific locations at start)
-9. Jump on marketing the app with targeted ads, reaching out people, collaborating with influencers and other advertising strategies.
-10. To the initial customers ask some grace period until next potential matches are joined in platform in return for some discounts and gifts.
-11. Start the matching after securing few customers, and get their feedback to perfect the app and ask for referrals in return for discounts or goodies/coupons.
-12. After initial success think of expansion ideas and making app more profitable, making more attractive to users.
+3. Setup professional email address and domain for website and make all communications though it.
+4. Try to attract investors to secure funding to run at least for next 3 years without profits. Or invest some money of own.
+5. Have thoroughly checked on compliance and regulations.
+6. Hire a Designer, full stack developer, Tester to perfect the app for next few months and plan for next changes(May be start with freelancers)
+7. Hire a moderator to talk to people and can work on enquiries.
+8. May be hire a marketing guy, who can help in better marketing strategies.??
+9. Launch the app(may to specific locations at start)
+10. Jump on marketing the app with targeted ads, reaching out people, collaborating with influencers and other advertising strategies.
+11. To the initial customers ask some grace period until next potential matches are joined in platform in return for some discounts and gifts.
+12. Start the matching after securing few customers, and get their feedback to perfect the app and ask for referrals in return for discounts or goodies/coupons.
+13. After initial success think of expansion ideas and making app more profitable, making more attractive to users.
 
 
 Time estimates for some of the tasks to complete this in 1 Year ready for investors presentation
