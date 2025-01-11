@@ -10,3 +10,4 @@ Research
 - [Insights on market trends](https://www.linkedin.com/pulse/global-marriage-dating-app-market-size-trends-opportunities-nhv4c/?trackingId=XSIGrsU7SJGUkVCnaVZyeg%3D%3D)
 - [Podcast from juleo founder](https://www.youtube.com/watch?v=dFRGrsPGCGU)
 - [Article on juleo](https://yourstory.com/2024/09/love-juleo-startup-app-online-dating-couples-ai-matchmaking-verification)
+- [Good website to research comapanies](https://tracxn.com/d/companies/juleo/__yNfGB53I0qiiPQ92v8yORRTwjJNmK_6jqPA2VfLmNeQ#funding-and-investors)
