@@ -93,6 +93,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 - **Who are your competitors?**  
   [Juleo](https://www.juleo.club/)
   [aisle](https://www.aisle.co/)
+  [lovemarriage.app](https://lovemarriage.app/)
 
 - **What are their strengths and weaknesses?**  
   Juleo is a very new dating app founded in 2023 but which is very close to our idea in India, It seems they took the right path in understanding all the pain points of the current
