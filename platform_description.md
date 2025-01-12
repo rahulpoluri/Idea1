@@ -27,7 +27,7 @@
 ### Step 4: AI-Powered Matchmaking  
 1. The system uses AI to identify compatible matches based on the user’s profile.
 2. Short-term matches (e.g., weekend compatibility) are prioritized where appropriate.
-3. Suggested matches are presented to the user for review.
+3. Suggested matches are presented to the user for review.xxxxxxx
 
 ---
 
@@ -77,6 +77,7 @@ By following this structured workflow, the platform ensures a secure, transparen
 7. **User-Friendly Interface**: Deliver a clean, appealing UI with clear instructions at every step, inspiring confidence.
 8. **Data Control**: Offer features for users to delete their data and maintain full control over personal information.
 9. **Support Portal**: Provide a robust support system for users to raise and resolve queries.
+10. **Alogrithmic matching of profiles**  Users should be closely matched by algo considering their preferences.
 
 ## Quality of Life Enhancements
 
