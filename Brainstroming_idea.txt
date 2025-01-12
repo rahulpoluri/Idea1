@@ -1,5 +1,6 @@
 My Idea on how to go further to launch app in India
 ———————————————————————————-------------------------
+0. Thougly research, analyse and validate the idea
 1. Develop the app with idea in mind to serve some 100000 (Webpage users ) concurrent users for video chat (10000 )
 2. After the app is ready with MVP,  try to run and make available to make demos and tests.
 3. Setup professional email address and domain for website and make all communications though it.
