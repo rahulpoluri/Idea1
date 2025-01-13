@@ -67,19 +67,24 @@ When researching a software product idea, the goal is to thoroughly validate and
   average user spending $3-$5 anually
   
   This number is derived by considering
-  Polulation -> 1.4B
-  aged 20-40 -> 490M
-  Singles -> 318M - 343M
-  internet accesssiblity -> ~150M - 200M
-  been on dating sites data/matrimonial -> ~60M - 80M
-  based on comenpetion and adoption rate -> 30M - 50M 
-  paid users on dating sites(5-10%) - 3M-5M
+  Polulation -> 1.4B [souce](https://www.pewresearch.org/short-reads/2023/02/09/key-facts-as-india-surpasses-china-as-the-worlds-most-populous-country/?utm_source=chatgpt.com)
+  aged 20-40(assuming 30% of population) -> 490M [souce](https://en.wikipedia.org/wiki/Demographics_of_India?utm_source=chatgpt.com)
+  Singles -> 318M - 343M (rough estimate)
+  internet accesssiblity -> ~150M - 200M [souce](https://www.smallcase.com/blog/modern-love-indias-dating-industry/?utm_source=chatgpt.com)
+  been on dating sites data/matrimonial -> ~60M - 80M [source](https://www.smallcase.com/blog/modern-love-indias-dating-industry/?utm_source=chatgpt.com)
+  based on comenpetion and adoption rate -> 30M - 50M (rough estimate)
+  paid users on dating sites(5-10%) - 3M-5M (industry estimate)
 
 ---
 
 ## 2. Validate the Idea
 - **Is your idea unique or differentiated?**  
-  _Answer:_
+  - We promote liberal values in our platform.
+  - Our main goal is to make people meet with minimum effort rather than keeping them engaged on the platform. 
+  - There is a promise for user that he gets what he is intended to have i.e. meeting and knowing other person. Thereby, he gets the value for what he pays.
+  - We promote gender-neutral security on the platform.
+  - We are positioned between dating and matrimony and want to bridge the gap between them.
+  - We provide cost-effective solution to user.
 
 - **Is there demand for this solution?**  
   _Answer:_
@@ -109,7 +114,25 @@ When researching a software product idea, the goal is to thoroughly validate and
   - orgnising club events every week
 
 - **How are they priced?**  
-  _Answer:_
+    Juleo [Source](https://yourstory.com/2024/09/love-juleo-startup-app-online-dating-couples-ai-matchmaking-verification)
+  Juleo is a premium dating platform in India that offers various membership plans:
+	•	(Juleo One meet 30-Day Trial) : ₹999, guaranteeing one meet or event.
+	•	(Juleo Regular Membership): ₹4,500 for three months.
+	•	(Juleo Premium Plans) : From 4500/month Up to ₹1,00,000, offering priority matching and access to exclusive events
+
+  Aisle [Source](https://www.datingscout.com/aisle/review?utm_source=chatgpt.com)
+	•	Premium Membership:
+	•	1 Month: ₹2,499
+	•	3 Months: ₹3,999 (₹1,333 per month)
+	•	6 Months: ₹5,499 (₹916.50 per month)
+	•	Features: Unlimited likes and invites, ability to reach out to any member. ￼
+	•	Concierge Membership:
+	•	1 Month: ₹2,499
+	•	Features: All Premium features, priority matching, personalized matches, and a Concierge badge. ￼
+ 
+  Lovemarriage.app (Took from podcast of founder, not directly available anywhere)
+  • Arranging meetup - 25000 to 35000 for 3 months/number of matches
+  • success fee - 111111
 
 - **What user complaints exist about current solutions?**  
   _Answer:_
