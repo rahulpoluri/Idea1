@@ -12,3 +12,6 @@ Research
 - [Article on juleo](https://yourstory.com/2024/09/love-juleo-startup-app-online-dating-couples-ai-matchmaking-verification)
 - [Good website to research comapanies](https://tracxn.com/d/companies/juleo/__yNfGB53I0qiiPQ92v8yORRTwjJNmK_6jqPA2VfLmNeQ#funding-and-investors)
 - [Podcast from lovemarriage.app founder](https://www.youtube.com/watch?v=23y65OAuewM)
+- [Useful tool for designing logos](https://looka.com/logo-maker/how-it-works/)
+- [Discussion by juleo founder](https://grapevine.in/post/i-m-varun-sud-founder-and-ceo-at-juleo-ask-me-anything-ea50b9c5-4a69-45ac-bdb0-decb361ad418)
+- [News advertisement by juleo](https://timesofindia.indiatimes.com/technology/tech-news/2-out-of-3-users-of-dating/matrimony-apps-never-had-an-in-person-meeting-claims-juleo-yougov-report/articleshow/113132917.cms)

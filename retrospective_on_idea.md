@@ -135,28 +135,105 @@ When researching a software product idea, the goal is to thoroughly validate and
   • success fee - 111111
 
 - **What user complaints exist about current solutions?**  
-  _Answer:_
+  For Juleo
+  ----------
+  Not much engagement found(https://www.reddit.com/r/juleodatingapp/comments/1fxmonc/working/)
+ 	1.	Intrusive Sign-Up Process
+	2.	Perceived Gender Bias in Policies
+	3.	Waitlist Frustrations
+	4.	Delays in Service Delivery After Payment
+	5.	Lack of Transparency in Matchmaking
+	6.	High Cost of Membership
+	7.	Limited User Base
+	8.	Algorithm and Match Quality Concerns
+	9.	Issues with Customer Support
+	10.	Complicated Cancellation and Refund Policies
 
+  For Aisle
+  ---------
+  1. Limited User Base
+  2. Subscription Requirement for Men
+  3. Profile Verification Concerns as they are easy
+  4. Expensive Membership
+  5. Limited Features for Free Users
+  6. Match Quality Issues
+  7. Glitches and Bugs
+  8. Unclear Refund Policies
+  9. Algorithm Concerns
+  10. Slow Response Times
+
+  LoveMarriage.app
+  ----------------
+  1.	Limited User Base
+	2.	High Membership Fees
+	3.	Lack of Free Trial
+	4.	Absence of Profile Browsing
+	5.	Dependence on Matchmakers
+	6.	Limited Online Presence
+	7.	App Availability Issues
+	8.	Niche Target Audience
+	9.	Customer Support Concerns
+	10.	Privacy and Security Measures
+  
+  All of them are targetted towards high paying customers and not for the average person.
 ---
 
 ## 4. Define the Product
 - **What is your product's value proposition?**  
-  _Answer:_
+  The value I want to provide to the customer is by giving him 
+  - Direct matches
+  - Being cost effective solution, for masses instead of solution just for elites
+  - Platform designed to address most of the problems of the users in dating and matrimony.
 
 - **What features are essential for the MVP (Minimum Viable Product)?**  
-  _Answer:_
+  - Video call feature
+  - Scheduling feature
+  - Signing up/login feature
+  - Forms for taking details
+  - payment
+  - profile deletion
+  - UI interface
+
 
 - **What technologies or platforms are required?**  
-  _Answer:_
+  python
+  react native
+  aws
+  database
 
 ---
 
 ## 5. Business and Financial Feasibility
 - **What is your revenue model?**  
-  _Answer:_
+  price = cost + profit
+
+  upfront costs
+  -------------
+  development team cost - 10L
+  marketing team and marketing cost - 18L
+  service team cost - 3L-5L
+  office space and equipment cost - 5L-10L
+  legal costs 2L-5L
+
+  TOTAL- 45L- 70L
+
+  running costs
+  -------------
+  running app 24/7 cost - 5L-10L
+  development team cost - 12L-15L
+  marketing team and marketing cost 10L-20L
+  operations team - 6L-12L
+  content moderation - 3L-6L
+  service team cost - 5L-12L
+  office space and equipment cost 5L-15L
+  legal costs - 2L-5L
+  discounts costs/referrals - 5L-10L
+
+  TOTAL - 53L - 96L
 
 - **What are the development and operational costs?**  
-  _Answer:_
+  upfront development cost - 10L
+  running cost anually - 12L-15L
 
 - **What is your pricing strategy?**  
   _Answer:_
@@ -165,40 +242,69 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ## 6. Regulatory and Compliance Concerns
 - **Are there legal or regulatory requirements?**  
-  _Answer:_
+  - IT Act, 2000 and Amendments
+  - Intermediary Guidelines (IT Rules, 2021)
+  - Personal Data Protection and Privacy
+  - Verification of User Identity
+  - Consumer Protection Act, 2019
+  - Payment and Billing Compliance(RBI Regulations, GST Compliance)
+  - Data Localization (Proposed)
+  - sexual Harassment of Women at Workplace Act, 2013 
+  - Local Laws for Matrimonial or Dating Services
 
 - **How will you handle data security and user privacy?**  
-  _Answer:_
+  - I want to make all the data of the user encrypted ie, even company cannot access the data of user except for few detials
+  - We will go with Aws service which secures the deplyment 
+  and also use strong authentication mechanisms.
 
 ---
 
 ## 7. Go-to-Market Strategy
 - **How will you acquire users?**  
-  _Answer:_
+  As we dont have to show each user hundreds of profiles so one big problem is solved, to start as their is just 1-1 matching.
+  but after starting we need person with given criteria to match, for which we need at atleast few profiles close to the user criteria to match, which can be tricky, for that we want to introduce wait times at start to user to make him be in list
+  so that once we find enough matches for him we can start matching. Eventually when userbase increase this wait times
+  reduce. And also as this system is based on appointment system, so we will definitely get some time. between each match to user.
+
+
 
 - **What channels will you use for distribution?**  
-  _Answer:_
+  I would like to use 
+  LinkedIn -as many professionals exist there
+  Instagram -  as it is easy way to reach masses
+  Bill boards might help to eshtablish the brand
+  Working with social media influencers will be great help
+  Also endorsing by media figure making a brand ambassador
+
 
 - **How will you retain users?**  
-  _Answer:_
+  I dont want to retian users as that is not the goal of the platform, the goal of platform is to give paid service to user
+  and gain his trust so that he can recommend others. Ideally if the user is successful he will not need the platform again.
+
+  Customers who are picky will pay more to meet more people until they find the best one theyby they pay more.
+  thereby only serious people who want genuine interest will choose the platform.
 
 ---
 
 ## 8. Risks and Challenges
 - **What could go wrong?**  
-  _Answer:_
+  I think biggest risk is not able to provide user with thier match even after waiting time. and getting women onboard who is 
+  willing to pay.
 
 - **What are your contingency plans?**  
-  _Answer:_
+  To avoid the risk of long wait only thing we can do is, do continous advertising so that there are certian number of poeple
+  availabe for each user, with cachy advertisements.
+  Target only audience who can pay for the service.
 
 ---
 
 ## 9. Long-term Vision
 - **What is the roadmap for growth?**  
-  _Answer:_
+  With more people onboard we could provide more quality matches to users. Users in India finally have platform where they
+  can trust to meet new people and find thier life partners.
 
 - **What partnerships or collaborations might be beneficial?**  
-  _Answer:_
+  collaboration with social media influencers, working closely with mental health specialist and marketing specialists will help.
 
 - **What is the potential exit strategy?**  
   _Answer:_
@@ -207,10 +313,12 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ## 10. Test Assumptions
 - **What hypotheses are you making?**  
-  _Answer:_
+  People are really suffering from dating and matrimony apps
+  Having too many options are creating unreachable expectations.
+  People are willing to pay if we say you can directly meet new people cutting the clutter.
 
 - **How will you test these assumptions?**  
-  _Answer:_
+  we want to run the survey to know peoples opinion these things
 
 ---
 
