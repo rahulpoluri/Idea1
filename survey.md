@@ -96,6 +96,7 @@ Section 4: User Interaction and Safety
 - Voice messages
 - In-person meetings
 - Other (please specify)
+- group meetings (??)
 
 15. How much control should users have over who can view or contact them?
 - Full control (e.g., profiles visible only to selected matches)
