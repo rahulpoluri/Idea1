@@ -1,22 +1,7 @@
 Time estimates for some of the tasks to complete this in 1 Year ready for investors presentation
 -------------------------------------------------------------------------------------------------
 
-Revised Steps for MVP Development and Presentation
-
-1. Focus on Core MVP Features (Keep It Lean)
-•	Key Features to Include:
-•	User onboarding (registration, login).
-•	Profile creation and viewing.
-•	Basic matchmaking (e.g., rule-based recommendations).
-•	One-to-one messaging or a simple chat feature.
-•	Verification system (manual or semi-automated).
-•	Privacy options (e.g., visibility settings for women).
-•	Exclude for MVP:
-•	Advanced AI algorithms (replace with simple logic for now).
-•	Extensive UI/UX customizations.
-•	Scalability features (opt for a lightweight backend).
-
-2. Suggested Timeline for MVP
+Suggested Timeline for MVP
 
 Step				Time (For Two Devs)	Tasks
 Research & Feature Planning	5-7 weeks	Define MVP scope, create wireframes, finalize tools.
@@ -27,30 +12,6 @@ Testing				2 weeks		Perform unit tests and basic functional testing.
 Pitch Preparation		1-2 weeks	Prepare pitch deck, prototype demo, and key talking points.
 
 Total Time for MVP: ~3-4 months.
-
-3. Tools to Speed Up Development
-•	Frontend: Flutter or React Native for quick cross-platform development.
-•	Backend: Node.js with Firebase or AWS for quick deployment and easy integration.
-•	Database: Firebase Firestore (NoSQL) or SQLite for simplicity.
-•	Prototyping: Figma or Adobe XD for wireframes and clickable prototypes.
-
-4. Pitch Preparation (Parallel to MVP Testing)
-•	Create a Demo App: Use the MVP to demonstrate real-world functionality.
-•	Prepare a Pitch Deck:
-•	Problem Statement: Highlight gaps in the current market.
-•	Solution: Your app’s unique approach and features.
-•	Market Opportunity: Focus on India’s growing dating/connection market.
-•	MVP Showcase: Screenshots, demo video, or live walkthrough.
-•	Roadmap: Plan for app perfection, launch, and scaling post-investment.
-•	Funding Needs: Clearly outline how funds will be allocated (team, tech, marketing).
-
-Is It Feasible Within a Year?
-
-Absolutely. By spending the first 4-5 months building and pitching the MVP, you can secure funding and then allocate the next 6-7 months to perfect the app with a hired team.
-Additional Tips for Success:
-1.	Build a Strong Narrative:
-•	Focus on why your app is needed in the market (e.g., unique privacy features, verified users).
-
 
 
 Ideas to improve functinanlities or covering corner cases
