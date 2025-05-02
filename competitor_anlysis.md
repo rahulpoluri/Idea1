@@ -207,6 +207,9 @@ Its more playful and casual tries to be inclusive to non premium subscribers
 
 
 
+
+
+
 **Tinder**
 
 Onboarding questions:
@@ -294,6 +297,9 @@ premium users are promised to get more seen by making them apprear more number o
 Tone:
 ---
 Its playful, casual, inclusive all kinds of users, very direct
+
+
+
 
 
 
@@ -413,3 +419,56 @@ Reviews:
 
 Tone:
 ---
+
+
+
+
+
+**Aisle**
+
+Aisle Features (Short Summary)
+	•	Serious Relationships Focus: Designed for meaningful, long-term connections.
+	•	Culturally Relevant: Tailored for Indian and South Asian communities.
+	•	Curated User Base: Selective approval process ensures quality profiles.
+	•	Invite-Based Matching: Users send invites to express interest.
+	•	Detailed Profiles: Includes lifestyle preferences and interests for compatibility.
+	•	Advanced Filters: Search by religion, language, and other preferences.
+	•	Icebreaker Notes: Send personalized messages to start conversations.
+	•	Voice Notes: Add audio prompts for a more personal touch.
+	•	Privacy-Focused: Ensures a safe, respectful environment.
+	•	Global Reach: Connects users in India and the diaspora.
+	•	Premium Membership: Unlock features like unlimited invites and priority visibility.
+	•	Event-Based Interaction: Occasionally organizes events for user engagement.
+
+
+
+**Juleo**
+
+A Delhi-based platform that combines rigorous verification, AI-driven matchmaking, and a focus on real-life interactions. While it emphasizes verification and AI matching, its primary goal is facilitating in-person meetings. ￼CarpeDM
+Encourages users to engage in video dates within 72 hours of matching, promoting immediate online interactions. However, it doesn’t detail comprehensive verification or AI-driven matchmaking. ￼
+
+Juleo is a dating app launched in 2023, focusing on connecting government ID-verified singles in India who are serious about building meaningful relationships. Here’s a concise overview of its features and pricing:
+Key Features:
+	•	Verified Membership: All users undergo government ID and video verification via India Stack, ensuring authenticity and safety. ￼
+	•	Privacy for Women: Female profiles are private by default, granting women control over who can view their information. ￼
+	•	AI-Driven Matchmaking: Utilizes artificial intelligence to suggest compatible matches based on user preferences and behavior. ￼
+	•	Personal Matchmaking Genie: A virtual assistant that curates profiles and arranges meetings, streamlining the dating process. ￼
+	•	Focus on Real-Life Interactions: Encourages users to meet in person at reputable venues, moving beyond digital interactions. ￼
+
+Pricing:
+	•	30-Day Trial Membership: ₹999
+	•	3-Month Membership: ₹4,500
+	•	Premium Plans: Available at higher rates, offering additional features and benefits. ￼
+
+Juleo aims to provide a trusted and secure platform for singles in India, emphasizing privacy, authenticity, and meaningful connections.
+For more information, you can visit their official website: ￼
+
+**iris Dating**
+
+Utilizes AI to verify user identities, ensuring authenticity and reducing catfishing. The platform focuses on connecting users based on compatibility, though it doesn’t specify structured online meetups. ￼
+
+
+**Badoo**
+Offers features like photo verification to ensure user authenticity and video chat options for real-time interaction. While it includes verification and online meetups, it lacks structured scheduling and AI-driven matchmaking. ￼While these platforms incorporate certain elements of your concept, none provide the full suite of features you’ve described, such as human verification via video calls, AI-powered matchmaking with a focus on short-term compatibility, structured and scheduled online interactions with pre-call guidelines, and post-call feedback mechanisms.
+
+Some feature in tinder and ok cupid have video dates option but they are always after two people are intersted and they had a match and chat.
