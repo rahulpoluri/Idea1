@@ -1,9 +1,3 @@
-## Target Audience  
-
-The platform is designed for matured and stable individuals in European Union (initially in Germany) who seek meaningful, long-term relationships. These individuals often face challenges in meeting like-minded partners due to cultural, societal, or logistical barriers.  
-
----
-
 ## Problem and Backstory  
 
 As someone with liberal values, modest means, and a modern outlook, finding a compatible partner was an uphill battle. I sought a person who valued education, cultural inclusivity, and long-term commitment but faced challenges with the existing avenues:  
@@ -43,7 +37,7 @@ This experience highlighted a glaring gap:
    - Paid interactions ensure serious intent and commitment.  
 
 2. **Human-Centered Approach:**  
-   - Dedicated human moderators assist users with personalized advice and guidance throughout the process.  
+   - UI assist users with personalized advice and guidance throughout the process.  
    - Backgrounds are verified to build trust and ensure safety.  
 
 3. **Inclusive and Bias-Free:**  
@@ -70,4 +64,4 @@ This initiative not only bridges the gap in the current market but also addresse
 - Ensures **cultural inclusivity** and welcomes users from diverse backgrounds.  
 - Places control in the hands of users, allowing them to define their journey with minimal external interference.  
 
-By fostering genuine connections and breaking away from traditional norms, **Liberal Shaadi** reimagines what modern matchmaking can be.  
+By fostering genuine connections and breaking away from traditional norms, **Lutend** reimagines what modern matchmaking can be.  
