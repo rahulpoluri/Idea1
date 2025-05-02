@@ -1,40 +1,6 @@
-## Name: Liberal Shaadi  
-
-### Name Ideas  
-
-**Inclusive and Meaningful:**  
-1. TrueMatch **  
-2. CrossCultural Love  
-3. LiberalLove **  
-4. EqualMatch  
-5. Togetherness Now  
-
-**Rooted in Indian Culture:**  
-6. Vivaha Connect (*Vivaha* means marriage in Sanskrit)  
-7. Dil Se Match (*Dil Se* means “from the heart”)  
-8. Anokha Bandhan (*Unique bond* in Hindi)  
-9. Sajna Saathi (*Beloved companion* in Hindi)  
-10. Bandhan and Beyond **  
-
-**Modern and Sophisticated:**  
-11. Elite MatchPoint  
-12. Affinity Alliance  
-13. Ever After Match  
-14. Harmonize Love  
-15. Unity Matchmaking  
-
-**Playful and Trendy:**  
-16. HeartBridge  
-17. SoulCrush  
-18. Meetable **  
-19. InSync  
-20. LuvBridge **  
-
----
-
 ## Target Audience  
 
-The platform is designed for young professionals in India and the European Union who seek meaningful, long-term relationships. These individuals often face challenges in meeting like-minded partners due to cultural, societal, or logistical barriers.  
+The platform is designed for matured and stable individuals in European Union (initially in Germany) who seek meaningful, long-term relationships. These individuals often face challenges in meeting like-minded partners due to cultural, societal, or logistical barriers.  
 
 ---
 
@@ -68,7 +34,7 @@ This experience highlighted a glaring gap:
 
 ## Solution  
 
-**Liberal Shaadi** aims to fill this gap by offering a platform that combines technology and human support to foster meaningful connections.  
+**Lutend** aims to fill this gap by offering a platform that combines technology and human support to foster meaningful connections.  
 
 ### Key Features  
 
@@ -93,13 +59,13 @@ This experience highlighted a glaring gap:
 
 ## Vision  
 
-Liberal Shaadi combines the efficiency of technology with the warmth of human connection to create a trustworthy and inclusive platform. By focusing on authenticity, autonomy, and compatibility, it offers a fresh approach to modern relationships.  
+**Lutend** combines the efficiency of technology with the warmth of human connection to create a trustworthy and inclusive platform. By focusing on authenticity, autonomy, and compatibility, it offers a fresh approach to modern relationships.  
 
 This initiative not only bridges the gap in the current market but also addresses the cultural, emotional, and practical needs of individuals seeking meaningful, long-term companionship.  
 
 ---
 
-### What’s Different About Liberal Shaadi?  
+### What’s Different About **Lutend**?  
 - Prioritizes **authentic, guided interactions** over superficial swiping or rigid societal expectations.  
 - Ensures **cultural inclusivity** and welcomes users from diverse backgrounds.  
 - Places control in the hands of users, allowing them to define their journey with minimal external interference.  
