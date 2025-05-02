@@ -5,21 +5,20 @@
 ### Step 1: Profile Creation  
 1. Users fill out a comprehensive form to provide:
    - Personal details: Name, Age, Address (with Aadhaar verification).
-   - Professional information: Current work details, professional summary (with salary slips).
+   - Professional information: Current work details, professional summary.
    - Family details and photographs.
-2. Submit the form for human verification.
+2. Submit the form for verification.
 
 ---
 
 ### Step 2: Profile Verification  
-1. A moderator reviews the submitted details and contacts the user via a video call to:
+1. A AI reviews the submitted details:
    - Verify the accuracy of the provided information.
-   - Offer suggestions to enhance the user's profile.
    - Document the user’s motivations and aspirations in their profile.
 
 ---
 ### Step 3: Payment for first three calls 
-1. If user is deemed to be fit after intial checks he will be allowed to make the payment.
+1. If user is deemed to be fit after intial checks he will be allowed to enter the platform.
 2. User will asked to provide his suitable timeslots for week, with some probable best time suggestions.
    
 ---
@@ -27,7 +26,7 @@
 ### Step 4: AI-Powered Matchmaking  
 1. The system uses AI to identify compatible matches based on the user’s profile.
 2. Short-term matches (e.g., weekend compatibility) are prioritized where appropriate.
-3. Suggested matches are presented to the user for review.xxxxxxx
+3. Suggested matches is presented to the user to connect.
 
 ---
 
@@ -36,7 +35,6 @@
 2. Pre-call instructions and behavioral guidelines are shared with each participant.
 3. The call is conducted with the following protocols:
    - Partial recording for monitoring and feedback purposes.
-   - AI tools generate real-time feedback during the call.
    - Intresting ideas or tiny question games to help this conversation go interesting and breaking ice.
    - Feature to make the detials little anonymous like madeup names for participants safety(if they wish)
 
@@ -78,14 +76,3 @@ By following this structured workflow, the platform ensures a secure, transparen
 8. **Data Control**: Offer features for users to delete their data and maintain full control over personal information.
 9. **Support Portal**: Provide a robust support system for users to raise and resolve queries.
 10. **Alogrithmic matching of profiles**  Users should be closely matched by algo considering their preferences.
-
-## Quality of Life Enhancements
-
-1. **Moderator Role**:  
-   - Moderators are critical to the platform's credibility and user experience.  
-   - Employ culturally aware, empathetic individuals, ideally with international exposure and a modern mindset, who can build trust effectively.  
-
-2. **Data Security**:  
-   - Emphasize that user data is highly secure and that users retain complete ownership of their information.  
-
-By incorporating these features and improvements, the platform will provide a trustworthy and seamless experience while fostering meaningful connections.
