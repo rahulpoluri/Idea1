@@ -1,5 +1,5 @@
 My Idea on how to go further to launch app in Germany(Dach Region)
-———————————————————————————----------------------------------------
+———————————————————————————-----------
 0. Thougly research, analyse and validate the idea
 1. Hire professional and pic on brand name and find the appropriate name which fits
 2. Buy the website domain name
