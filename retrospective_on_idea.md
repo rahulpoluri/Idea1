@@ -39,13 +39,13 @@ When researching a software product idea, the goal is to thoroughly validate and
   - Finding a love based relation is extremely difficult.
     
 - **What problem does your product solve?**   
-  Liberal Shaadi is platform designed to be hybrid of matrimonial sites and dating platform and of blind dating.
+  Lutend is platform designed to be hybrid of matrimonial sites and dating platform and of blind dating.
   - Users get a chance directly to speak to thier matches via video call.
   - Users will be guided to make thier bio and can express thier intent with the help of moderator and via userinterface.
   - Users don't have to spend a lot of time in finding a match or writing catchy messages to them as Algo does matching for them based on thier preferences and suitability and not just 
   looks or hard set filters.
   - Users pay per use of platform so they are not forced to stay on the platform forever.
-  - Users can be assured to meet people with right intentions and right info as profiles are checked throughly by moderator and user info is validated via proofs.
+  - Users can be assured to meet people with right intentions and right info as profiles are checked throughly by AI and user info is validated via proofs.
   - Users can be assured that thier data is secure and they can be requested to deleted easily as app provides this access directly as they are made owners of thier data.
   - Users stay anonymous for certian period in this process, so they can be assured that they dont fall victim of harrassment.
   - Men and women theoritically will have equal success rate. (They might be different waiting times for them, but they dont waste time or money for waiting)
@@ -60,20 +60,47 @@ When researching a software product idea, the goal is to thoroughly validate and
   
 
 - **How big is the market?**  
-  [_Answer:_](https://www.smallcase.com/blog/modern-love-indias-dating-industry/)
-  AS per the analysis, it seems that there are around
-  30 miliion targetable users in INDIA acroos various cities
-  annual growth of 12-15%
-  average user spending $3-$5 anually
-  
-  This number is derived by considering
-  Polulation -> 1.4B [souce](https://www.pewresearch.org/short-reads/2023/02/09/key-facts-as-india-surpasses-china-as-the-worlds-most-populous-country/?utm_source=chatgpt.com)
-  aged 20-40(assuming 30% of population) -> 490M [souce](https://en.wikipedia.org/wiki/Demographics_of_India?utm_source=chatgpt.com)
-  Singles -> 318M - 343M (rough estimate)
-  internet accesssiblity -> ~150M - 200M [souce](https://www.smallcase.com/blog/modern-love-indias-dating-industry/?utm_source=chatgpt.com)
-  been on dating sites data/matrimonial -> ~60M - 80M [source](https://www.smallcase.com/blog/modern-love-indias-dating-industry/?utm_source=chatgpt.com)
-  based on comenpetion and adoption rate -> 30M - 50M (rough estimate)
-  paid users on dating sites(5-10%) - 3M-5M (industry estimate)
+Market Overview: DACH Region
+
+🇩🇪 Germany
+	•	Population: Approximately 83 million
+	•	Online Dating Revenue: Germany ranks among the top five countries globally in dating app revenue, generating nearly $350 million annually.
+	•	User Base: Around 20 million Germans have used dating services like Tinder and Parship.
+	•	Top Apps: Tinder, Parship, ElitePartner, Bumble, Badoo ￼ ￼ ￼ ￼
+
+🇦🇹 Austria
+	•	Population: Approximately 9 million
+	•	Market Characteristics: Austria exhibits similar dating app usage patterns to Germany, with a preference for apps catering to serious relationships.
+	•	Top Apps: Tinder, Hinge, Bumble ￼
+
+🇨🇭 Switzerland
+	•	Population: Approximately 8.7 million
+	•	User Base: Dating app usage is prevalent, with Tinder being the most popular, followed by Bumble and Hinge.
+	•	Market Characteristics: Users often seek serious relationships, valuing privacy and discretion. ￼
+
+⸻
+
+Market Size & Growth
+	•	Europe Online Dating Market: Valued at $2.85 billion in 2024, projected to reach $6.38 billion by 2032, growing at a CAGR of 10.64%.
+	•	Germany’s Contribution: With substantial revenue figures, Germany plays a significant role in the European online dating market. ￼
+
+⸻
+
+User Spending & Monetization
+	•	Germany: High willingness to pay for premium services, especially on platforms like Parship and ElitePartner.
+	•	Austria & Switzerland: Users are open to subscription models, particularly when seeking serious relationships.
+	•	Average Revenue Per User (ARPU): Higher than in emerging markets, reflecting users’ readiness to invest in quality matches. ￼ ￼
+
+⸻
+
+User Demographics & Behavior
+	•	Age Group: Predominantly 25-45 years old
+	•	Intent: A significant portion seeks long-term relationships or marriage.
+	•	Behavioral Trends:
+	•	Preference for detailed profiles and meaningful connections.
+	•	Growing fatigue with superficial swiping mechanisms.
+	•	Increased interest in platforms that prioritize safety and authenticity.
+
 
 ---
 
@@ -96,9 +123,10 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ## 3. Analyze the Competition
 - **Who are your competitors?**  
-  [Juleo](https://www.juleo.club/)
-  [aisle](https://www.aisle.co/)
-  [lovemarriage.app](https://lovemarriage.app/)
+	Tinder
+	bumble
+	Hinge
+	Juleo
 
 - **What are their strengths and weaknesses?**  
   Juleo is a very new dating app founded in 2023 but which is very close to our idea in India, It seems they took the right path in understanding all the pain points of the current
@@ -120,19 +148,6 @@ When researching a software product idea, the goal is to thoroughly validate and
 	•	(Juleo Regular Membership): ₹4,500 for three months.
 	•	(Juleo Premium Plans) : From 4500/month Up to ₹1,00,000, offering priority matching and access to exclusive events
 
-  Aisle [Source](https://www.datingscout.com/aisle/review?utm_source=chatgpt.com)
-	•	Premium Membership:
-	•	1 Month: ₹2,499
-	•	3 Months: ₹3,999 (₹1,333 per month)
-	•	6 Months: ₹5,499 (₹916.50 per month)
-	•	Features: Unlimited likes and invites, ability to reach out to any member. ￼
-	•	Concierge Membership:
-	•	1 Month: ₹2,499
-	•	Features: All Premium features, priority matching, personalized matches, and a Concierge badge. ￼
- 
-  Lovemarriage.app (Took from podcast of founder, not directly available anywhere)
-  • Arranging meetup - 25000 to 35000 for 3 months/number of matches
-  • success fee - 111111
 
 - **What user complaints exist about current solutions?**  
   For Juleo
@@ -149,31 +164,6 @@ When researching a software product idea, the goal is to thoroughly validate and
 	9.	Issues with Customer Support
 	10.	Complicated Cancellation and Refund Policies
 
-  For Aisle
-  ---------
-  1. Limited User Base
-  2. Subscription Requirement for Men
-  3. Profile Verification Concerns as they are easy
-  4. Expensive Membership
-  5. Limited Features for Free Users
-  6. Match Quality Issues
-  7. Glitches and Bugs
-  8. Unclear Refund Policies
-  9. Algorithm Concerns
-  10. Slow Response Times
-
-  LoveMarriage.app
-  ----------------
-  1.	Limited User Base
-	2.	High Membership Fees
-	3.	Lack of Free Trial
-	4.	Absence of Profile Browsing
-	5.	Dependence on Matchmakers
-	6.	Limited Online Presence
-	7.	App Availability Issues
-	8.	Niche Target Audience
-	9.	Customer Support Concerns
-	10.	Privacy and Security Measures
   
   All of them are targetted towards high paying customers and not for the average person.
 ---
@@ -207,7 +197,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 - **What is your revenue model?**  
   price = cost + profit
 
-  upfront costs
+  upfront costs ??
   -------------
   development team cost - 10L
   marketing team and marketing cost - 18L
@@ -217,7 +207,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 
   TOTAL- 45L- 70L
 
-  running costs
+  running costs ??
   -------------
   running app 24/7 cost - 5L-10L
   development team cost - 12L-15L
@@ -240,7 +230,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ---
 
-## 6. Regulatory and Compliance Concerns
+## 6. Regulatory and Compliance Concerns ??
 - **Are there legal or regulatory requirements?**  
   - IT Act, 2000 and Amendments
   - Intermediary Guidelines (IT Rules, 2021)
@@ -300,7 +290,7 @@ When researching a software product idea, the goal is to thoroughly validate and
 
 ## 9. Long-term Vision
 - **What is the roadmap for growth?**  
-  With more people onboard we could provide more quality matches to users. Users in India finally have platform where they
+  With more people onboard we could provide more quality matches to users. Users finally have platform where they
   can trust to meet new people and find thier life partners.
 
 - **What partnerships or collaborations might be beneficial?**  
