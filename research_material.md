@@ -15,4 +15,4 @@ Research
 - [Useful tool for designing logos](https://looka.com/logo-maker/how-it-works/)
 - [Discussion by juleo founder](https://grapevine.in/post/i-m-varun-sud-founder-and-ceo-at-juleo-ask-me-anything-ea50b9c5-4a69-45ac-bdb0-decb361ad418)
 - [News advertisement by juleo](https://timesofindia.indiatimes.com/technology/tech-news/2-out-of-3-users-of-dating/matrimony-apps-never-had-an-in-person-meeting-claims-juleo-yougov-report/articleshow/113132917.cms)
-- Insights on UX of bumble(https://uxdesign.cc/3-lessons-from-bumbles-onboarding-f45f817f751f)
+- [Insights on UX of bumble](https://uxdesign.cc/3-lessons-from-bumbles-onboarding-f45f817f751f)
